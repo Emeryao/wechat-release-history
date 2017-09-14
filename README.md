@@ -1,2 +1,16 @@
-# wechat-release-history
-wechat release history
+# Wechat Release History
+## Android
+* [`6.5.14`](http://dldir1.qq.com/weixin/android/weixin6514android1120.apk)
+* [`6.5.13`](http://dldir1.qq.com/weixin/android/weixin6513android1100.apk)
+* [`6.5.10`](http://dldir1.qq.com/weixin/android/weixin6510android1080.apk)
+* [`6.5.8`](http://dldir1.qq.com/weixin/android/weixin658android1060.apk)
+* [`6.5.7`](http://dldir1.qq.com/weixin/android/weixin657android1040.apk)
+* [`6.5.6`](http://dldir1.qq.com/weixin/android/weixin656android1020.apk)
+* [`6.5.4`](http://dldir1.qq.com/weixin/android/weixin654android1000.apk)
+* [`6.5.3`](http://dldir1.qq.com/weixin/android/weixin653android980.apk)
+* [`6.3.32`](http://dldir1.qq.com/weixin/android/weixin6332android960.apk)
+* [`6.3.31`](http://dldir1.qq.com/weixin/android/weixin6331android940.apk)
+* [`6.3.30`](http://dldir1.qq.com/weixin/android/weixin6330android920.apk)
+* [`6.3.28`](http://dldir1.qq.com/weixin/android/weixin6328android900.apk)
+* [`6.3.27`](http://dldir1.qq.com/weixin/android/weixin6327android880.apk)
+* [`6.3.25`](http://dldir1.qq.com/weixin/android/weixin6325android860.apk)
