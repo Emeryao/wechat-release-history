@@ -1,5 +1,7 @@
 # Wechat Release History
 ## Android
+
+* [`6.5.19`](http://dldir1.qq.com/weixin/android/weixin6519android1140.apk)
 * [`6.5.16`](http://dldir1.qq.com/weixin/android/weixin6516android1120.apk)
 * [`6.5.14`](http://dldir1.qq.com/weixin/android/weixin6514android1120.apk)
 * [`6.5.13`](http://dldir1.qq.com/weixin/android/weixin6513android1100.apk)
